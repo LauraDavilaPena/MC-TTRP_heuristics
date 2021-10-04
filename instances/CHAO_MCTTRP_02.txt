@@ -1,0 +1,59 @@
+# The numbers in the first line are truck capacity, trailer capacity,
+# number of customers, maximum number of trucks and maximum number of trailers.
+100.0 100.0 50 50 50
+# Number of type of products, hopper truck capavity, and hopper trailer capacity
+2 5 10
+# The 3nd line is for the depot (node 0)
+0 30.0 40.0
+# Customer Number, X-coordinate, Y-coordinate, indicator of truck customer
+# (1 = TC, 0 = VC) and the demands of the different products.
+1 37 52 1 3.5 3.5
+2 49 49 0 15 15
+3 52 64 0 8 8
+4 20 26 0 4.5 4.5
+5 40 30 0 10.5 10.5
+6 21 47 0 7.5 7.5
+7 17 63 1 9.5 9.5
+8 31 62 0 11.5 11.5
+9 52 33 1 5.5 5.5
+10 51 21 0 2.5 2.5
+11 42 41 1 9.5 9.5
+12 31 32 1 14.5 14.5
+13 5 25 0 11.5 11.5
+14 12 42 1 10.5 10.5
+15 36 16 1 5 5
+16 52 41 1 7.5 7.5
+17 27 23 1 1.5 1.5
+18 17 33 0 20.5 20.5
+19 13 13 1 4.5 4.5
+20 57 58 0 14 14
+21 62 42 0 4 4
+22 42 57 0 4 4
+23 16 57 1 8 8
+24 8 52 0 5 5
+25 7 38 1 14 14
+26 27 68 0 3.5 3.5
+27 30 48 0 7.5 7.5
+28 43 67 1 7 7
+29 58 48 0 3 3
+30 58 27 0 9.5 9.5
+31 37 69 1 5.5 5.5
+32 38 46 1 6 6
+33 46 10 0 11.5 11.5
+34 61 33 1 13 13
+35 62 63 1 8.5 8.5
+36 63 69 1 3 3
+37 32 22 1 4.5 4.5
+38 45 35 0 7.5 7.5
+39 59 15 0 7 7
+40 5 6 0 3.5 3.5
+41 10 17 1 13.5 13.5
+42 21 10 0 6.5 6.5
+43 5 64 0 5.5 5.5
+44 30 15 1 8 8
+45 39 10 0 5 5
+46 32 39 1 2.5 2.5
+47 25 32 1 12.5 12.5
+48 25 55 0 8.5 8.5
+49 48 28 1 9 9
+50 56 37 1 5 5

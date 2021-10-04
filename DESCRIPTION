@@ -1,0 +1,10 @@
+Package: mcttrpalns
+Type: Package
+Title: Clarke and Wright Multi-Compartment Truck and Trailer Routing Problem (CW-MCTTRP)
+Version: 0.1.0
+Author: Laura Davila-Pena, David R Penas, and Balbina Casas-Méndez.
+Maintainer: Balbina Casas-Méndez <balbina.casas.mendez@usc.es>
+Description: This is version 0.1 of a novel heuristic based in Clarke and Wright savings algorithm, to solve MC-TTRP optimization problems. This constructive strategy consists in building a high-quality feasible solution, based on the notion of savings in the routing cost.
+License: GPLv3
+Encoding: UTF-8
+LazyData: true

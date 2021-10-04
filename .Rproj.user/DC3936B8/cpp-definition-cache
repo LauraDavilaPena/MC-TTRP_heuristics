@@ -1,0 +1,86 @@
+[
+    {
+        "file": "C:/Users/david/OneDrive - Universidade de Santiago de Compostela/Escritorio/ALNS_09-08-2021/mcttrpalns/src/movlist.cpp",
+        "file_last_write": 1617985452.0,
+        "definitions": [
+            {
+                "usr": "c:@S@MovsList",
+                "kind": 3,
+                "parent_name": "",
+                "name": "MovsList",
+                "file": "C:/Users/david/OneDrive - Universidade de Santiago de Compostela/Escritorio/ALNS_09-08-2021/mcttrpalns/src/movlist.cpp",
+                "line": 14,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@local_cost#I#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "local_cost(int, Rcpp::NumericMatrix)",
+                "file": "C:/Users/david/OneDrive - Universidade de Santiago de Compostela/Escritorio/ALNS_09-08-2021/mcttrpalns/src/movlist.cpp",
+                "line": 515,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@calc_penalty_route#I#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#d#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "calc_penalty_route(int, Rcpp::NumericVector, double, int)",
+                "file": "C:/Users/david/OneDrive - Universidade de Santiago de Compostela/Escritorio/ALNS_09-08-2021/mcttrpalns/src/movlist.cpp",
+                "line": 530,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@calc_penalty_route_MCTTRP#I#I#I#I#I#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#I#d#d#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "calc_penalty_route_MCTTRP(int, int, int, int, int, Rcpp::NumericMatrix, int, double, double, double)",
+                "file": "C:/Users/david/OneDrive - Universidade de Santiago de Compostela/Escritorio/ALNS_09-08-2021/mcttrpalns/src/movlist.cpp",
+                "line": 577,
+                "column": 8
+            }
+        ]
+    },
+    {
+        "file": "C:/Users/david/OneDrive - Universidade de Santiago de Compostela/Escritorio/ALNS_MCTTRP/ALNS_MCTTRP/src/movlist.cpp",
+        "file_last_write": 1617985452.0,
+        "definitions": [
+            {
+                "usr": "c:@S@MovsList",
+                "kind": 3,
+                "parent_name": "",
+                "name": "MovsList",
+                "file": "C:/Users/david/OneDrive - Universidade de Santiago de Compostela/Escritorio/ALNS_MCTTRP/ALNS_MCTTRP/src/movlist.cpp",
+                "line": 14,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@local_cost#I#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "local_cost(int, Rcpp::NumericMatrix)",
+                "file": "C:/Users/david/OneDrive - Universidade de Santiago de Compostela/Escritorio/ALNS_MCTTRP/ALNS_MCTTRP/src/movlist.cpp",
+                "line": 515,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@calc_penalty_route#I#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#d#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "calc_penalty_route(int, Rcpp::NumericVector, double, int)",
+                "file": "C:/Users/david/OneDrive - Universidade de Santiago de Compostela/Escritorio/ALNS_MCTTRP/ALNS_MCTTRP/src/movlist.cpp",
+                "line": 530,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@calc_penalty_route_MCTTRP#I#I#I#I#I#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#I#d#d#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "calc_penalty_route_MCTTRP(int, int, int, int, int, Rcpp::NumericMatrix, int, double, double, double)",
+                "file": "C:/Users/david/OneDrive - Universidade de Santiago de Compostela/Escritorio/ALNS_MCTTRP/ALNS_MCTTRP/src/movlist.cpp",
+                "line": 577,
+                "column": 8
+            }
+        ]
+    }
+]

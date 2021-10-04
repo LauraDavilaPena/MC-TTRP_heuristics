@@ -1,0 +1,115 @@
+slurmstepd: info: Setting TMPDIR to /scratch/6504224. Previous errors about TMPDIR can be discarded
+binutils/2.31.1 loaded 
+gcc/6.4.0 loaded 
+openblas/0.3.9 loaded 
+fftw/3.3.8 loaded 
+sed/4.5 loaded 
+bzip2/1.0.6 loaded 
+zlib/1.2.11 loaded 
+pcre/8.42 loaded 
+grep/3.1 loaded 
+ncurses/6.1 loaded 
+libreadline/7.0 loaded 
+gawk/4.2.1 loaded 
+tar/1.30 loaded 
+coreutils/8.30 loaded 
+findutils/4.6.0 loaded 
+gmp/6.1.2 loaded 
+nettle/3.4 loaded 
+expat/2.2.6 loaded 
+libpng/1.6.37 loaded 
+freetype/2.9.1 loaded 
+fontconfig/2.13.1 loaded 
+libgpg-error/1.32 loaded 
+libgcrypt/1.8.3 loaded 
+libxslt/1.1.32 loaded 
+x11/20180604 loaded 
+libdrm/2.4.94 loaded 
+llvm/6.0.1 loaded 
+mesa/18.3.6 loaded 
+libglu/9.0.0 loaded 
+pixman/0.34.0 loaded 
+libffi/3.2.1 loaded 
+xz/5.2.4 loaded 
+libxml2/2.9.7 loaded 
+gettext/0.19.8.1 loaded 
+dbus/1.13.6 loaded 
+util-linux/2.32 loaded 
+glib/2.58.0 loaded 
+cairo/1.14.12 loaded 
+libreadline/7.0 unloaded 
+libreadline/8.0 loaded 
+tcl/8.6.8 loaded 
+sqlite/3.30.1 loaded 
+pcre2/10.32 loaded 
+nasm/2.13.03 loaded 
+libjpeg-turbo/2.0.4 loaded 
+libtiff/4.1.0 loaded 
+jdk/8u181 loaded 
+tk/8.6.8 loaded 
+openssl/1.1.0i loaded 
+curl/7.61.1 loaded 
+gsl/2.6 loaded 
+cairo/1.14.12 unloaded 
+pixman/0.34.0 unloaded 
+pixman/0.38.4 loaded 
+glib/2.58.0 unloaded 
+libxslt/1.1.32 unloaded 
+libxml2/2.9.7 unloaded 
+icu/63.1 loaded 
+libxml2/2.9.7-icu-63.1 loaded 
+libxslt/1.1.32-icu-63.1 loaded 
+glib/2.58.2 loaded 
+cairo/1.16.0 loaded 
+harfbuzz/2.5.3 loaded 
+gobject-introspection/1.61.1 loaded 
+fribidi/1.0.4 loaded 
+pango/1.43.0 loaded 
+texlive/2018 loaded 
+R/4.0.2 loaded 
+[1] "init descent_search"
+[1] "it 1048.47401403429 < 1061.36706942817 mov move_subroute_same_route indexr1 2 indexr2 0 mov_list_cost 1048.47401403429 mov_list_cost_feas 0 mov_list$opt_reconf -1734121056"
+[1] "it 1044.51324856859 < 1048.47401403429 mov exchange_tc_two_routes indexr1 6 indexr2 8 mov_list_cost 1044.51324856859 mov_list_cost_feas 0 mov_list$opt_reconf 1976612088"
+[1] "it 1039.63708909667 < 1044.51324856859 mov exchange_tc_two_routes indexr1 7 indexr2 8 mov_list_cost 1039.63708909667 mov_list_cost_feas 0 mov_list$opt_reconf -1734120856"
+[1] "it 1033.28499375063 < 1036.84782947556 mov move_vc indexr1 4 indexr2 8 mov_list_cost 1033.28499375063 mov_list_cost_feas 0 mov_list$opt_reconf -1734120856"
+[1] "it 1029.86966859172 < 1033.28499375063 mov move_tc indexr1 1 indexr2 2 mov_list_cost 1029.86966859172 mov_list_cost_feas 0 mov_list$opt_reconf -1734120856"
+[1] "it 1028.9651175412 < 1029.86966859172 mov move_tc indexr1 7 indexr2 8 mov_list_cost 1028.9651175412 mov_list_cost_feas 0 mov_list$opt_reconf -1734120856"
+[1] "it 1028.98405781306 < 1028.9651175412 mov move_tc indexr1 2 indexr2 1 mov_list_cost 1028.98405781306 mov_list_cost_feas 0 mov_list$opt_reconf -1734120856"
+[1] "   total nodes in final route  ---> 101"
+[1] "   n  ---> 101"
+[1] "   n1 ---> 50"
+[1] "   NUMBER OF ERRORS -> 0"
+[1] "l  ---> 101"
+[1] "n  ---> 101"
+[1] "n1 ---> 50"
+[1] "END CW Algorithm"
+[1] "Result: instances/CHAO_TTRP_08.txt"
+[1] "    Cost 1028.9651175412"
+[1] "    Time 29.8797290325165 seconds"
+[1] "    N trucks 8"
+[1] "    N trailers 4"
+[1] "    PTR 4"
+[1] "    PVR 0"
+[1] "    CVR 4"
+[1] "    Route:  0 8 81 34 83 52 82 75 84 8 85 5 46 21 22 45 8 0 15 43 25 2 37 19 41 42 14 35 63 16 68 59 37 17 18 0 60 76 51 44 61 6 39 49 20 0 36 3 47 32 13 7 62 90 74 7 40 33 23 31 30 4 0 54 99 93 88 73 56 91 100 98 64 92 0 70 1 38 66 58 79 80 69 77 78 57 65 0 72 86 87 53 71 97 89 67 0 50 94 55 95 96 50 12 29 11 48 24 28 9 27 10 26 0"
+[1] ""
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 8| type_problem TTRP| descent 1| init cost (CW): 1028.9651175412| cost ALNS: 991.285590908215"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 8| type_problem TTRP| descent 1| init cost (CW): 1028.9651175412| cost ALNS: 990.021646412322"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 8| type_problem TTRP| descent 1| init cost (CW): 1028.9651175412| cost ALNS: 987.791785320332"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 8| type_problem TTRP| descent 1| init cost (CW): 1028.9651175412| cost ALNS: 978.43541044611"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 8| type_problem TTRP| descent 1| init cost (CW): 1028.9651175412| cost ALNS: 990.621374696536"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 8| type_problem TTRP| descent 1| init cost (CW): 1028.9651175412| cost ALNS: 999.659296862918"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 8| type_problem TTRP| descent 1| init cost (CW): 1028.9651175412| cost ALNS: 968.102425944504"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 8| type_problem TTRP| descent 1| init cost (CW): 1028.9651175412| cost ALNS: 1007.95421111978"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 8| type_problem TTRP| descent 1| init cost (CW): 1028.9651175412| cost ALNS: 953.436981139394"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 8| type_problem TTRP| descent 1| init cost (CW): 1028.9651175412| cost ALNS: 1001.68407976086"

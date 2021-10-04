@@ -1,0 +1,106 @@
+slurmstepd: info: Setting TMPDIR to /scratch/6527242. Previous errors about TMPDIR can be discarded
+binutils/2.31.1 loaded 
+gcc/6.4.0 loaded 
+openblas/0.3.9 loaded 
+fftw/3.3.8 loaded 
+sed/4.5 loaded 
+bzip2/1.0.6 loaded 
+zlib/1.2.11 loaded 
+pcre/8.42 loaded 
+grep/3.1 loaded 
+ncurses/6.1 loaded 
+libreadline/7.0 loaded 
+gawk/4.2.1 loaded 
+tar/1.30 loaded 
+coreutils/8.30 loaded 
+findutils/4.6.0 loaded 
+gmp/6.1.2 loaded 
+nettle/3.4 loaded 
+expat/2.2.6 loaded 
+libpng/1.6.37 loaded 
+freetype/2.9.1 loaded 
+fontconfig/2.13.1 loaded 
+libgpg-error/1.32 loaded 
+libgcrypt/1.8.3 loaded 
+libxslt/1.1.32 loaded 
+x11/20180604 loaded 
+libdrm/2.4.94 loaded 
+llvm/6.0.1 loaded 
+mesa/18.3.6 loaded 
+libglu/9.0.0 loaded 
+pixman/0.34.0 loaded 
+libffi/3.2.1 loaded 
+xz/5.2.4 loaded 
+libxml2/2.9.7 loaded 
+gettext/0.19.8.1 loaded 
+dbus/1.13.6 loaded 
+util-linux/2.32 loaded 
+glib/2.58.0 loaded 
+cairo/1.14.12 loaded 
+libreadline/7.0 unloaded 
+libreadline/8.0 loaded 
+tcl/8.6.8 loaded 
+sqlite/3.30.1 loaded 
+pcre2/10.32 loaded 
+nasm/2.13.03 loaded 
+libjpeg-turbo/2.0.4 loaded 
+libtiff/4.1.0 loaded 
+jdk/8u181 loaded 
+tk/8.6.8 loaded 
+openssl/1.1.0i loaded 
+curl/7.61.1 loaded 
+gsl/2.6 loaded 
+cairo/1.14.12 unloaded 
+pixman/0.34.0 unloaded 
+pixman/0.38.4 loaded 
+glib/2.58.0 unloaded 
+libxslt/1.1.32 unloaded 
+libxml2/2.9.7 unloaded 
+icu/63.1 loaded 
+libxml2/2.9.7-icu-63.1 loaded 
+libxslt/1.1.32-icu-63.1 loaded 
+glib/2.58.2 loaded 
+cairo/1.16.0 loaded 
+harfbuzz/2.5.3 loaded 
+gobject-introspection/1.61.1 loaded 
+fribidi/1.0.4 loaded 
+pango/1.43.0 loaded 
+texlive/2018 loaded 
+R/4.0.2 loaded 
+WARNING: ignoring environment value of R_HOME
+Warning message:
+NAs introduced by coercion 
+[1] "init descent_search"
+[1] "it 1681.13430745143 < 1697.60007124344 mov move_subroute indexr1 15 indexr2 12 mov_list_cost 1681.13430745143 mov_list_cost_feas 0 mov_list$opt_reconf 1"
+[1] "it 1676.56973669279 < 1680.26131862141 mov move_vc indexr1 16 indexr2 3 mov_list_cost 1676.56973669279 mov_list_cost_feas 0 mov_list$opt_reconf 0"
+[1] "it 1675.98505860636 < 1676.56973669279 mov move_vc indexr1 12 indexr2 2 mov_list_cost 1675.98505860636 mov_list_cost_feas 0 mov_list$opt_reconf 0"
+[1] "it 1675.48232740771 < 1675.98505860636 mov exchange_vc_two_routes indexr1 8 indexr2 13 mov_list_cost 1675.48232740771 mov_list_cost_feas 7.72655611300668e+228 mov_list$opt_reconf 0"
+[1] "it 1670.81142192104 < 1671.51386281206 mov move_tc indexr1 20 indexr2 13 mov_list_cost 1670.81142192104 mov_list_cost_feas 5.15012682933329e+151 mov_list$opt_reconf 0"
+[1] "it 1670.52465957549 < 1670.81142192104 mov move_tc indexr1 20 indexr2 12 mov_list_cost 1670.52465957549 mov_list_cost_feas 0 mov_list$opt_reconf 0"
+[1] "it 1670.52465957549 < 1670.52465957549 mov exchange_movement_change_parking indexr1 10 indexr2 15 mov_list_cost 1670.52465957549 mov_list_cost_feas 0 mov_list$opt_reconf 3"
+[1] "   total nodes in final route  ---> 200"
+[1] "   n  ---> 200"
+[1] "   n1 ---> 150"
+[1] "   NUMBER OF ERRORS -> 0"
+[1] "l  ---> 200"
+[1] "n  ---> 200"
+[1] "n1 ---> 150"
+[1] "CW Result: instances/CHAO_MCTTRP_13.txt"
+[1] "    Cost 1670.52465957549"
+[1] "    Time 401.848731279373 seconds"
+[1] "    N trucks 23"
+[1] "    N trailers 14"
+[1] "    PTR 9"
+[1] "    PVR 11"
+[1] "    CVR 3"
+[1] "    Route:  0 3 96 160 193 14 175 194 6 0 104 108 46 10 35 106 34 129 70 78 90 8 0 22 86 132 1 94 24 55 80 120 21 0 28 122 102 29 103 51 56 119 52 98 0 32 58 128 59 183 156 33 109 176 0 40 116 27 64 92 5 81 142 15 41 0 42 199 174 163 178 124 72 0 47 79 145 144 105 11 88 12 130 67 2 0 54 101 121 18 23 93 126 63 140 147 61 0 13 66 150 179 159 4 89 13 0 82 135 149 148 45 141 17 60 57 16 0 87 138 77 173 171 188 169 76 75 138 111 0 48 69 186 158 36 91 9 157 0 110 71 112 117 49 137 95 38 65 114 0 115 0 125 143 25 197 155 180 164 73 83 143 97 0 118 100 26 136 50 39 107 30 37 131 0 139 187 167 133 84 7 184 190 0 146 134 19 127 53 31 85 113 20 0 170 198 168 68 74 154 0 177 62 192 152 181 166 172 0 165 182 43 189 162 195 151 0 191 153 185 196 161 123 99 44 0"
+[1] ""
+[1] "1670.52465957549"
+Error in seq.default(init_instance, end_instance, by = 100) : 
+  'from' must be a finite number
+Calls: seq -> seq.default
+No traceback available 
+Error in length(prob1_seeds) : object 'prob1_seeds' not found
+3: stop("'from' must be a finite number")
+2: seq.default(init_instance, end_instance, by = 100)
+1: seq(init_instance, end_instance, by = 100)

@@ -1,0 +1,108 @@
+slurmstepd: info: Setting TMPDIR to /scratch/6527253. Previous errors about TMPDIR can be discarded
+binutils/2.31.1 loaded 
+gcc/6.4.0 loaded 
+openblas/0.3.9 loaded 
+fftw/3.3.8 loaded 
+sed/4.5 loaded 
+bzip2/1.0.6 loaded 
+zlib/1.2.11 loaded 
+pcre/8.42 loaded 
+grep/3.1 loaded 
+ncurses/6.1 loaded 
+libreadline/7.0 loaded 
+gawk/4.2.1 loaded 
+tar/1.30 loaded 
+coreutils/8.30 loaded 
+findutils/4.6.0 loaded 
+gmp/6.1.2 loaded 
+nettle/3.4 loaded 
+expat/2.2.6 loaded 
+libpng/1.6.37 loaded 
+freetype/2.9.1 loaded 
+fontconfig/2.13.1 loaded 
+libgpg-error/1.32 loaded 
+libgcrypt/1.8.3 loaded 
+libxslt/1.1.32 loaded 
+x11/20180604 loaded 
+libdrm/2.4.94 loaded 
+llvm/6.0.1 loaded 
+mesa/18.3.6 loaded 
+libglu/9.0.0 loaded 
+pixman/0.34.0 loaded 
+libffi/3.2.1 loaded 
+xz/5.2.4 loaded 
+libxml2/2.9.7 loaded 
+gettext/0.19.8.1 loaded 
+dbus/1.13.6 loaded 
+util-linux/2.32 loaded 
+glib/2.58.0 loaded 
+cairo/1.14.12 loaded 
+libreadline/7.0 unloaded 
+libreadline/8.0 loaded 
+tcl/8.6.8 loaded 
+sqlite/3.30.1 loaded 
+pcre2/10.32 loaded 
+nasm/2.13.03 loaded 
+libjpeg-turbo/2.0.4 loaded 
+libtiff/4.1.0 loaded 
+jdk/8u181 loaded 
+tk/8.6.8 loaded 
+openssl/1.1.0i loaded 
+curl/7.61.1 loaded 
+gsl/2.6 loaded 
+cairo/1.14.12 unloaded 
+pixman/0.34.0 unloaded 
+pixman/0.38.4 loaded 
+glib/2.58.0 unloaded 
+libxslt/1.1.32 unloaded 
+libxml2/2.9.7 unloaded 
+icu/63.1 loaded 
+libxml2/2.9.7-icu-63.1 loaded 
+libxslt/1.1.32-icu-63.1 loaded 
+glib/2.58.2 loaded 
+cairo/1.16.0 loaded 
+harfbuzz/2.5.3 loaded 
+gobject-introspection/1.61.1 loaded 
+fribidi/1.0.4 loaded 
+pango/1.43.0 loaded 
+texlive/2018 loaded 
+R/4.0.2 loaded 
+WARNING: ignoring environment value of R_HOME
+[1] "   total nodes in final route  ---> 51"
+[1] "   n  ---> 51"
+[1] "   n1 ---> 13"
+[1] "   NUMBER OF ERRORS -> 0"
+[1] "l  ---> 51"
+[1] "n  ---> 51"
+[1] "n1 ---> 13"
+[1] "CW Result: instances/CHAO_MCTTRP_03.txt"
+[1] "    Cost 988.053699506232"
+[1] "    Time 6.7155020236969 seconds"
+[1] "    N trucks 8"
+[1] "    N trailers 5"
+[1] "    PTR 3"
+[1] "    PVR 0"
+[1] "    CVR 5"
+[1] "    Route:  0 6 15 25 45 42 26 44 6 12 7 0 13 18 32 36 33 2 13 1 0 19 50 39 28 34 24 0 21 16 49 43 0 4 23 46 38 35 4 11 10 5 0 3 30 14 29 41 17 3 0 8 47 20 27 40 37 8 9 0 48 31 22 0"
+[1] ""
+[1] "988.053699506232"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 3| type_problem MCTTRP| descent 0| init cost (CW): 988.053699506232| cost ALNS: 804.471905431568"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 3| type_problem MCTTRP| descent 0| init cost (CW): 988.053699506232| cost ALNS: 804.499114617623"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 3| type_problem MCTTRP| descent 0| init cost (CW): 988.053699506232| cost ALNS: 803.521468963795"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 3| type_problem MCTTRP| descent 0| init cost (CW): 988.053699506232| cost ALNS: 801.523492364236"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 3| type_problem MCTTRP| descent 0| init cost (CW): 988.053699506232| cost ALNS: 843.272410799455"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 3| type_problem MCTTRP| descent 0| init cost (CW): 988.053699506232| cost ALNS: 809.29296336269"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 3| type_problem MCTTRP| descent 0| init cost (CW): 988.053699506232| cost ALNS: 792.354044368162"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 3| type_problem MCTTRP| descent 0| init cost (CW): 988.053699506232| cost ALNS: 791.46806468775"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 3| type_problem MCTTRP| descent 0| init cost (CW): 988.053699506232| cost ALNS: 797.37076854398"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 3| type_problem MCTTRP| descent 0| init cost (CW): 988.053699506232| cost ALNS: 809.132825988433"

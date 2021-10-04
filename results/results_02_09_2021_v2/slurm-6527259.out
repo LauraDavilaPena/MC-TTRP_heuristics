@@ -1,0 +1,98 @@
+slurmstepd: info: Setting TMPDIR to /scratch/6527259. Previous errors about TMPDIR can be discarded
+binutils/2.31.1 loaded 
+gcc/6.4.0 loaded 
+openblas/0.3.9 loaded 
+fftw/3.3.8 loaded 
+sed/4.5 loaded 
+bzip2/1.0.6 loaded 
+zlib/1.2.11 loaded 
+pcre/8.42 loaded 
+grep/3.1 loaded 
+ncurses/6.1 loaded 
+libreadline/7.0 loaded 
+gawk/4.2.1 loaded 
+tar/1.30 loaded 
+coreutils/8.30 loaded 
+findutils/4.6.0 loaded 
+gmp/6.1.2 loaded 
+nettle/3.4 loaded 
+expat/2.2.6 loaded 
+libpng/1.6.37 loaded 
+freetype/2.9.1 loaded 
+fontconfig/2.13.1 loaded 
+libgpg-error/1.32 loaded 
+libgcrypt/1.8.3 loaded 
+libxslt/1.1.32 loaded 
+x11/20180604 loaded 
+libdrm/2.4.94 loaded 
+llvm/6.0.1 loaded 
+mesa/18.3.6 loaded 
+libglu/9.0.0 loaded 
+pixman/0.34.0 loaded 
+libffi/3.2.1 loaded 
+xz/5.2.4 loaded 
+libxml2/2.9.7 loaded 
+gettext/0.19.8.1 loaded 
+dbus/1.13.6 loaded 
+util-linux/2.32 loaded 
+glib/2.58.0 loaded 
+cairo/1.14.12 loaded 
+libreadline/7.0 unloaded 
+libreadline/8.0 loaded 
+tcl/8.6.8 loaded 
+sqlite/3.30.1 loaded 
+pcre2/10.32 loaded 
+nasm/2.13.03 loaded 
+libjpeg-turbo/2.0.4 loaded 
+libtiff/4.1.0 loaded 
+jdk/8u181 loaded 
+tk/8.6.8 loaded 
+openssl/1.1.0i loaded 
+curl/7.61.1 loaded 
+gsl/2.6 loaded 
+cairo/1.14.12 unloaded 
+pixman/0.34.0 unloaded 
+pixman/0.38.4 loaded 
+glib/2.58.0 unloaded 
+libxslt/1.1.32 unloaded 
+libxml2/2.9.7 unloaded 
+icu/63.1 loaded 
+libxml2/2.9.7-icu-63.1 loaded 
+libxslt/1.1.32-icu-63.1 loaded 
+glib/2.58.2 loaded 
+cairo/1.16.0 loaded 
+harfbuzz/2.5.3 loaded 
+gobject-introspection/1.61.1 loaded 
+fribidi/1.0.4 loaded 
+pango/1.43.0 loaded 
+texlive/2018 loaded 
+R/4.0.2 loaded 
+WARNING: ignoring environment value of R_HOME
+Warning message:
+NAs introduced by coercion 
+[1] "   total nodes in final route  ---> 101"
+[1] "   n  ---> 101"
+[1] "   n1 ---> 25"
+[1] "   NUMBER OF ERRORS -> 0"
+[1] "l  ---> 101"
+[1] "n  ---> 101"
+[1] "n1 ---> 25"
+[1] "CW Result: instances/CHAO_MCTTRP_09.txt"
+[1] "    Cost 1426.163285974"
+[1] "    Time 32.1517999172211 seconds"
+[1] "    N trucks 11"
+[1] "    N trailers 6"
+[1] "    PTR 5"
+[1] "    PVR 0"
+[1] "    CVR 6"
+[1] "    Route:  0 5 2 21 18 12 17 4 96 64 97 4 0 6 98 100 85 93 99 30 6 23 25 22 11 0 7 24 14 1 9 87 95 94 9 0 15 16 3 10 8 20 60 42 80 69 77 28 76 8 0 19 31 82 56 55 32 54 39 84 19 0 27 62 52 41 75 61 74 72 73 40 0 43 46 57 35 44 59 92 50 0 63 51 36 29 83 65 89 0 13 66 38 86 53 37 91 13 0 70 71 45 47 90 68 34 67 88 0 79 78 49 33 81 48 58 26 0"
+[1] ""
+[1] "1426.163285974"
+Error in seq.default(init_instance, end_instance, by = 100) : 
+  'from' must be a finite number
+Calls: seq -> seq.default
+No traceback available 
+Error in length(prob1_seeds) : object 'prob1_seeds' not found
+3: stop("'from' must be a finite number")
+2: seq.default(init_instance, end_instance, by = 100)
+1: seq(init_instance, end_instance, by = 100)

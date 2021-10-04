@@ -1,0 +1,107 @@
+slurmstepd: info: Setting TMPDIR to /scratch/6504269. Previous errors about TMPDIR can be discarded
+binutils/2.31.1 loaded 
+gcc/6.4.0 loaded 
+openblas/0.3.9 loaded 
+fftw/3.3.8 loaded 
+sed/4.5 loaded 
+bzip2/1.0.6 loaded 
+zlib/1.2.11 loaded 
+pcre/8.42 loaded 
+grep/3.1 loaded 
+ncurses/6.1 loaded 
+libreadline/7.0 loaded 
+gawk/4.2.1 loaded 
+tar/1.30 loaded 
+coreutils/8.30 loaded 
+findutils/4.6.0 loaded 
+gmp/6.1.2 loaded 
+nettle/3.4 loaded 
+expat/2.2.6 loaded 
+libpng/1.6.37 loaded 
+freetype/2.9.1 loaded 
+fontconfig/2.13.1 loaded 
+libgpg-error/1.32 loaded 
+libgcrypt/1.8.3 loaded 
+libxslt/1.1.32 loaded 
+x11/20180604 loaded 
+libdrm/2.4.94 loaded 
+llvm/6.0.1 loaded 
+mesa/18.3.6 loaded 
+libglu/9.0.0 loaded 
+pixman/0.34.0 loaded 
+libffi/3.2.1 loaded 
+xz/5.2.4 loaded 
+libxml2/2.9.7 loaded 
+gettext/0.19.8.1 loaded 
+dbus/1.13.6 loaded 
+util-linux/2.32 loaded 
+glib/2.58.0 loaded 
+cairo/1.14.12 loaded 
+libreadline/7.0 unloaded 
+libreadline/8.0 loaded 
+tcl/8.6.8 loaded 
+sqlite/3.30.1 loaded 
+pcre2/10.32 loaded 
+nasm/2.13.03 loaded 
+libjpeg-turbo/2.0.4 loaded 
+libtiff/4.1.0 loaded 
+jdk/8u181 loaded 
+tk/8.6.8 loaded 
+openssl/1.1.0i loaded 
+curl/7.61.1 loaded 
+gsl/2.6 loaded 
+cairo/1.14.12 unloaded 
+pixman/0.34.0 unloaded 
+pixman/0.38.4 loaded 
+glib/2.58.0 unloaded 
+libxslt/1.1.32 unloaded 
+libxml2/2.9.7 unloaded 
+icu/63.1 loaded 
+libxml2/2.9.7-icu-63.1 loaded 
+libxslt/1.1.32-icu-63.1 loaded 
+glib/2.58.2 loaded 
+cairo/1.16.0 loaded 
+harfbuzz/2.5.3 loaded 
+gobject-introspection/1.61.1 loaded 
+fribidi/1.0.4 loaded 
+pango/1.43.0 loaded 
+texlive/2018 loaded 
+R/4.0.2 loaded 
+[1] "   total nodes in final route  ---> 151"
+[1] "   n  ---> 151"
+[1] "   n1 ---> 75"
+[1] "   NUMBER OF ERRORS -> 0"
+[1] "l  ---> 151"
+[1] "n  ---> 151"
+[1] "n1 ---> 75"
+[1] "END CW Algorithm"
+[1] "Result: instances/CHAO_TTRP_11.txt"
+[1] "    Cost 1419.04333166353"
+[1] "    Time 103.496356010437 seconds"
+[1] "    N trucks 12"
+[1] "    N trailers 6"
+[1] "    PTR 6"
+[1] "    PVR 0"
+[1] "    CVR 6"
+[1] "    Route:  0 13 75 56 2 83 150 115 106 112 13 32 19 53 67 14 57 0 16 82 128 139 105 48 91 143 15 38 16 141 40 17 65 35 146 93 140 86 16 0 73 55 85 61 55 4 34 26 70 18 24 23 62 25 41 0 42 43 33 84 59 8 98 138 80 130 42 28 9 54 74 46 63 51 1 0 58 149 3 134 103 47 100 89 58 39 36 60 0 66 5 120 122 102 124 127 121 50 5 79 104 107 144 5 0 78 119 117 123 94 125 69 21 45 133 0 87 109 108 110 145 88 20 72 31 71 131 76 0 99 126 92 116 136 81 52 27 0 118 49 148 44 147 95 97 135 6 22 7 0 132 113 77 114 137 90 11 64 101 129 0 142 29 12 68 96 37 10 30 111 0"
+[1] ""
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 11| type_problem TTRP| descent 0| init cost (CW): 1419.04333166353| cost ALNS: 1346.10872925078"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 11| type_problem TTRP| descent 0| init cost (CW): 1419.04333166353| cost ALNS: 1306.24716860709"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 11| type_problem TTRP| descent 0| init cost (CW): 1419.04333166353| cost ALNS: 1375.06235552777"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 11| type_problem TTRP| descent 0| init cost (CW): 1419.04333166353| cost ALNS: 1369.79890858697"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 11| type_problem TTRP| descent 0| init cost (CW): 1419.04333166353| cost ALNS: 1291.29172997855"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 11| type_problem TTRP| descent 0| init cost (CW): 1419.04333166353| cost ALNS: 1370.68238318238"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 11| type_problem TTRP| descent 0| init cost (CW): 1419.04333166353| cost ALNS: 1404.91774916013"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 11| type_problem TTRP| descent 0| init cost (CW): 1419.04333166353| cost ALNS: 1287.92461073485"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 11| type_problem TTRP| descent 0| init cost (CW): 1419.04333166353| cost ALNS: 1277.52582333562"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 11| type_problem TTRP| descent 0| init cost (CW): 1419.04333166353| cost ALNS: 1363.33807871259"

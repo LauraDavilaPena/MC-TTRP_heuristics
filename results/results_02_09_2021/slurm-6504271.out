@@ -1,0 +1,106 @@
+slurmstepd: info: Setting TMPDIR to /scratch/6504271. Previous errors about TMPDIR can be discarded
+binutils/2.31.1 loaded 
+gcc/6.4.0 loaded 
+openblas/0.3.9 loaded 
+fftw/3.3.8 loaded 
+sed/4.5 loaded 
+bzip2/1.0.6 loaded 
+zlib/1.2.11 loaded 
+pcre/8.42 loaded 
+grep/3.1 loaded 
+ncurses/6.1 loaded 
+libreadline/7.0 loaded 
+gawk/4.2.1 loaded 
+tar/1.30 loaded 
+coreutils/8.30 loaded 
+findutils/4.6.0 loaded 
+gmp/6.1.2 loaded 
+nettle/3.4 loaded 
+expat/2.2.6 loaded 
+libpng/1.6.37 loaded 
+freetype/2.9.1 loaded 
+fontconfig/2.13.1 loaded 
+libgpg-error/1.32 loaded 
+libgcrypt/1.8.3 loaded 
+libxslt/1.1.32 loaded 
+x11/20180604 loaded 
+libdrm/2.4.94 loaded 
+llvm/6.0.1 loaded 
+mesa/18.3.6 loaded 
+libglu/9.0.0 loaded 
+pixman/0.34.0 loaded 
+libffi/3.2.1 loaded 
+xz/5.2.4 loaded 
+libxml2/2.9.7 loaded 
+gettext/0.19.8.1 loaded 
+dbus/1.13.6 loaded 
+util-linux/2.32 loaded 
+glib/2.58.0 loaded 
+cairo/1.14.12 loaded 
+libreadline/7.0 unloaded 
+libreadline/8.0 loaded 
+tcl/8.6.8 loaded 
+sqlite/3.30.1 loaded 
+pcre2/10.32 loaded 
+nasm/2.13.03 loaded 
+libjpeg-turbo/2.0.4 loaded 
+libtiff/4.1.0 loaded 
+jdk/8u181 loaded 
+tk/8.6.8 loaded 
+openssl/1.1.0i loaded 
+curl/7.61.1 loaded 
+gsl/2.6 loaded 
+cairo/1.14.12 unloaded 
+pixman/0.34.0 unloaded 
+pixman/0.38.4 loaded 
+glib/2.58.0 unloaded 
+libxslt/1.1.32 unloaded 
+libxml2/2.9.7 unloaded 
+icu/63.1 loaded 
+libxml2/2.9.7-icu-63.1 loaded 
+libxslt/1.1.32-icu-63.1 loaded 
+glib/2.58.2 loaded 
+cairo/1.16.0 loaded 
+harfbuzz/2.5.3 loaded 
+gobject-introspection/1.61.1 loaded 
+fribidi/1.0.4 loaded 
+pango/1.43.0 loaded 
+texlive/2018 loaded 
+R/4.0.2 loaded 
+[1] "   total nodes in final route  ---> 200"
+[1] "   n  ---> 200"
+[1] "   n1 ---> 150"
+[1] "   NUMBER OF ERRORS -> 0"
+[1] "l  ---> 200"
+[1] "n  ---> 200"
+[1] "n1 ---> 150"
+[1] "END CW Algorithm"
+[1] "Result: instances/CHAO_TTRP_13.txt"
+[1] "    Cost 1578.48245143089"
+[1] "    Time 304.736860752106 seconds"
+[1] "    N trucks 17"
+[1] "    N trailers 9"
+[1] "    PTR 8"
+[1] "    PVR 2"
+[1] "    CVR 7"
+[1] "    Route:  0 154 171 173 74 170 68 48 130 67 2 0 4 131 37 30 107 39 50 136 26 180 164 73 83 26 100 55 0 6 194 175 14 193 160 96 38 0 19 127 53 31 196 185 31 17 141 45 60 148 32 0 21 197 155 165 182 86 184 190 22 0 40 116 172 117 49 116 27 64 92 5 81 41 94 24 80 0 43 82 162 189 43 16 58 57 59 128 183 156 33 109 176 43 0 118 98 15 142 52 119 56 51 103 29 102 122 28 63 0 138 75 76 78 188 47 77 138 95 137 112 71 0 84 133 187 167 54 62 177 147 61 0 135 20 113 7 139 132 1 120 25 143 97 125 110 0 72 13 124 168 144 105 69 186 158 36 91 9 124 111 0 104 108 46 195 151 46 10 35 106 34 129 70 90 8 87 115 0 101 121 18 23 93 126 181 166 140 192 152 0 149 85 191 153 161 123 99 44 134 146 0 150 179 159 12 88 11 145 198 79 157 169 0 178 163 66 89 65 3 199 174 114 42 0"
+[1] ""
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 13| type_problem TTRP| descent 0| init cost (CW): 1578.48245143089| cost ALNS: 1578.48245143089"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 13| type_problem TTRP| descent 0| init cost (CW): 1578.48245143089| cost ALNS: 1578.48245143089"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 13| type_problem TTRP| descent 0| init cost (CW): 1578.48245143089| cost ALNS: 1567.44405015902"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 13| type_problem TTRP| descent 0| init cost (CW): 1578.48245143089| cost ALNS: 1570.13403830284"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 13| type_problem TTRP| descent 0| init cost (CW): 1578.48245143089| cost ALNS: 1565.48140669651"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 13| type_problem TTRP| descent 0| init cost (CW): 1578.48245143089| cost ALNS: 1578.48245143089"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 13| type_problem TTRP| descent 0| init cost (CW): 1578.48245143089| cost ALNS: 1560.58641073527"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 13| type_problem TTRP| descent 0| init cost (CW): 1578.48245143089| cost ALNS: 1544.40876754013"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 13| type_problem TTRP| descent 0| init cost (CW): 1578.48245143089| cost ALNS: 1572.8145618027"
+slurmstepd: error: *** JOB 6504271 ON c7127 CANCELLED AT 2021-09-03T18:44:09 DUE TO TIME LIMIT ***

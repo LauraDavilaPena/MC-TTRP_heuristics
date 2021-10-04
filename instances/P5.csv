@@ -1,0 +1,13 @@
+truck capacity,trailer capacity,number of customers,max number of trucks,max number of trailers,num type of products,hopper truck capacity,hopper trailer capacity,,,,,,,,
+19500,30000,9,3,2,4,1500,2000,,,,,,,,
+customer Number,distance1,distance1,distance2,distance3,distance4,distance5,distance6,distance7,distance8,distance9,indicator of truck customer,demands p1,demands p2,demands p3,demands p4
+0,0,24,23,5,11,12,10,3,9,8,0,0,0,0,0
+1,24,0,2,23,15,17,23,27,32,18,0,3500,0,0,1587
+2,23,2,0,21,14,15,22,26,30,17,0,3000,0,0,1981
+3,5,23,21,0,14,11,13,8,13,7,0,1507,0,3000,0
+4,11,15,14,14,0,4,9,14,18,18,0,0,2551,2000,0
+5,12,17,15,11,4,0,9,15,20,7,0,0,8000,2055,0
+6,10,23,22,13,9,9,0,7,17,16,1,0,5200,0,0
+7,3,27,26,8,14,15,7,0,11,11,1,2100,0,0,3000
+8,9,32,30,13,18,20,17,11,0,16,1,1000,0,998,0
+9,8,18,17,7,18,7,16,11,16,0,1,1300,0,1201,0

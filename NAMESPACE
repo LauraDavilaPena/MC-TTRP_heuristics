@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+import(Rcpp)
+useDynLib(mcttrpalns)
+importFrom(Rcpp, sourceCpp)

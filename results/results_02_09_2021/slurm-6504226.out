@@ -1,0 +1,122 @@
+slurmstepd: info: Setting TMPDIR to /scratch/6504226. Previous errors about TMPDIR can be discarded
+binutils/2.31.1 loaded 
+gcc/6.4.0 loaded 
+openblas/0.3.9 loaded 
+fftw/3.3.8 loaded 
+sed/4.5 loaded 
+bzip2/1.0.6 loaded 
+zlib/1.2.11 loaded 
+pcre/8.42 loaded 
+grep/3.1 loaded 
+ncurses/6.1 loaded 
+libreadline/7.0 loaded 
+gawk/4.2.1 loaded 
+tar/1.30 loaded 
+coreutils/8.30 loaded 
+findutils/4.6.0 loaded 
+gmp/6.1.2 loaded 
+nettle/3.4 loaded 
+expat/2.2.6 loaded 
+libpng/1.6.37 loaded 
+freetype/2.9.1 loaded 
+fontconfig/2.13.1 loaded 
+libgpg-error/1.32 loaded 
+libgcrypt/1.8.3 loaded 
+libxslt/1.1.32 loaded 
+x11/20180604 loaded 
+libdrm/2.4.94 loaded 
+llvm/6.0.1 loaded 
+mesa/18.3.6 loaded 
+libglu/9.0.0 loaded 
+pixman/0.34.0 loaded 
+libffi/3.2.1 loaded 
+xz/5.2.4 loaded 
+libxml2/2.9.7 loaded 
+gettext/0.19.8.1 loaded 
+dbus/1.13.6 loaded 
+util-linux/2.32 loaded 
+glib/2.58.0 loaded 
+cairo/1.14.12 loaded 
+libreadline/7.0 unloaded 
+libreadline/8.0 loaded 
+tcl/8.6.8 loaded 
+sqlite/3.30.1 loaded 
+pcre2/10.32 loaded 
+nasm/2.13.03 loaded 
+libjpeg-turbo/2.0.4 loaded 
+libtiff/4.1.0 loaded 
+jdk/8u181 loaded 
+tk/8.6.8 loaded 
+openssl/1.1.0i loaded 
+curl/7.61.1 loaded 
+gsl/2.6 loaded 
+cairo/1.14.12 unloaded 
+pixman/0.34.0 unloaded 
+pixman/0.38.4 loaded 
+glib/2.58.0 unloaded 
+libxslt/1.1.32 unloaded 
+libxml2/2.9.7 unloaded 
+icu/63.1 loaded 
+libxml2/2.9.7-icu-63.1 loaded 
+libxslt/1.1.32-icu-63.1 loaded 
+glib/2.58.2 loaded 
+cairo/1.16.0 loaded 
+harfbuzz/2.5.3 loaded 
+gobject-introspection/1.61.1 loaded 
+fribidi/1.0.4 loaded 
+pango/1.43.0 loaded 
+texlive/2018 loaded 
+R/4.0.2 loaded 
+[1] "init descent_search"
+[1] "it 1302.67184242304 < 1323.91040395193 mov move_tc indexr1 3 indexr2 5 mov_list_cost 1302.67184242304 mov_list_cost_feas 0 mov_list$opt_reconf 1072"
+[1] "it 1260.81567307445 < 1302.67184242304 mov move_tc indexr1 3 indexr2 4 mov_list_cost 1260.81567307445 mov_list_cost_feas 0 mov_list$opt_reconf 1072"
+[1] "it 1251.7507890628 < 1260.81567307445 mov move_vc indexr1 10 indexr2 7 mov_list_cost 1251.7507890628 mov_list_cost_feas 0 mov_list$opt_reconf 1072"
+[1] "it 1242.40933768594 < 1251.35360959594 mov move_subroute indexr1 5 indexr2 3 mov_list_cost 1242.40933768594 mov_list_cost_feas 0 mov_list$opt_reconf -684611720"
+[1] "it 1233.83794922622 < 1242.40933768594 mov move_vc indexr1 5 indexr2 3 mov_list_cost 1233.83794922622 mov_list_cost_feas 0 mov_list$opt_reconf -684611720"
+[1] "it 1227.20197252229 < 1232.22808829918 mov move_vc indexr1 10 indexr2 3 mov_list_cost 1227.20197252229 mov_list_cost_feas 0 mov_list$opt_reconf -684611720"
+[1] "it 1220.86530985229 < 1224.83354855506 mov move_tc indexr1 7 indexr2 6 mov_list_cost 1220.86530985229 mov_list_cost_feas 0 mov_list$opt_reconf -684611720"
+[1] "it 1219.22160102204 < 1220.8653098523 mov move_subroute_same_route indexr1 7 indexr2 0 mov_list_cost 1219.22160102204 mov_list_cost_feas 0 mov_list$opt_reconf -684611720"
+[1] "it 1218.29279412281 < 1219.22160102204 mov move_vc indexr1 3 indexr2 7 mov_list_cost 1218.29279412281 mov_list_cost_feas 0 mov_list$opt_reconf -684611720"
+[1] "it 1215.87236894499 < 1218.29279412281 mov move_tc indexr1 4 indexr2 3 mov_list_cost 1215.87236894499 mov_list_cost_feas 0 mov_list$opt_reconf -684611720"
+[1] "it 1214.51120768608 < 1215.87236894499 mov exchange_vc_two_routes indexr1 4 indexr2 11 mov_list_cost 1214.51120768608 mov_list_cost_feas 0 mov_list$opt_reconf -684611720"
+[1] "it 1213.96810694195 < 1214.51120768608 mov move_vc indexr1 10 indexr2 3 mov_list_cost 1213.96810694195 mov_list_cost_feas 0 mov_list$opt_reconf -684611720"
+[1] "it 1213.15469930141 < 1213.96810694195 mov move_vc indexr1 10 indexr2 5 mov_list_cost 1213.15469930141 mov_list_cost_feas 0 mov_list$opt_reconf -684611720"
+[1] "it 1213.43335723457 < 1213.15469930141 mov move_vc indexr1 2 indexr2 5 mov_list_cost 1213.43335723457 mov_list_cost_feas 0 mov_list$opt_reconf -684611720"
+[1] "   total nodes in final route  ---> 151"
+[1] "   n  ---> 151"
+[1] "   n1 ---> 113"
+[1] "   NUMBER OF ERRORS -> 0"
+[1] "l  ---> 151"
+[1] "n  ---> 151"
+[1] "n1 ---> 113"
+[1] "END CW Algorithm"
+[1] "Result: instances/CHAO_TTRP_10.txt"
+[1] "    Cost 1213.15469930141"
+[1] "    Time 138.180118083954 seconds"
+[1] "    N trucks 12"
+[1] "    N trailers 6"
+[1] "    PTR 6"
+[1] "    PVR 3"
+[1] "    CVR 3"
+[1] "    Route:  0 112 47 95 15 82 7 48 37 108 28 35 34 96 36 61 5 0 9 149 68 40 97 25 131 146 22 0 39 79 53 49 102 101 121 101 27 59 144 59 45 30 55 56 147 118 31 110 44 139 114 103 45 0 41 104 8 84 150 134 130 90 23 0 62 63 46 12 88 13 125 142 116 89 62 98 50 16 94 1 0 11 33 10 92 124 123 148 65 106 70 135 0 91 75 66 109 32 107 76 136 122 76 64 71 73 72 87 0 80 17 54 57 43 18 51 29 105 20 42 3 85 113 21 0 81 67 117 83 143 129 69 120 145 24 52 77 0 86 38 78 26 60 93 6 0 58 132 2 133 141 119 19 100 99 126 0 111 14 128 140 4 138 137 127 74 115 0"
+[1] ""
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 10| type_problem TTRP| descent 1| init cost (CW): 1213.15469930141| cost ALNS: 1213.15469930141"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 10| type_problem TTRP| descent 1| init cost (CW): 1213.15469930141| cost ALNS: 1213.15469930141"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 10| type_problem TTRP| descent 1| init cost (CW): 1213.15469930141| cost ALNS: 1213.15469930141"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 10| type_problem TTRP| descent 1| init cost (CW): 1213.15469930141| cost ALNS: 1213.15469930141"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 10| type_problem TTRP| descent 1| init cost (CW): 1213.15469930141| cost ALNS: 1213.15469930141"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 10| type_problem TTRP| descent 1| init cost (CW): 1213.15469930141| cost ALNS: 1213.15469930141"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 10| type_problem TTRP| descent 1| init cost (CW): 1213.15469930141| cost ALNS: 1213.15469930141"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 10| type_problem TTRP| descent 1| init cost (CW): 1213.15469930141| cost ALNS: 1213.15469930141"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 10| type_problem TTRP| descent 1| init cost (CW): 1213.15469930141| cost ALNS: 1154.48281080596"
+[1] "[[ Stopping criteria ]] Max time"
+[1] "Problem 10| type_problem TTRP| descent 1| init cost (CW): 1213.15469930141| cost ALNS: 1199.60479517581"
