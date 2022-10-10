@@ -14,7 +14,7 @@ This code has been implemented using R 4.0.2, and it has been tested in Linux cl
 ## REFERENCES
 
 ### Main references: 
-Laura Davila-Pena, David R. Penas, and Balbina Casas-Méndez (2023). A new two-phase heuristic for a problem of food distribution with compartmentalized trucks and trailers. *International Transactions in Operational Research*, 30(2), 1031--1064. https://doi.org/10.1111/itor.13071.
+Laura Davila-Pena, David R. Penas, and Balbina Casas-Méndez (2023). A new two-phase heuristic for a problem of food distribution with compartmentalized trucks and trailers. *International Transactions in Operational Research*, 30(2), 1031-1064. https://doi.org/10.1111/itor.13071.
 
 Laura Davila-Pena, David R. Penas, Balbina Casas-Méndez, Maria Antónia Carravilla, and José Fernando Oliveira (2022). An adaptive large neighborhood search for the multi-compartment truck and trailer routing problem. *Manuscript under preparation*. 
 
