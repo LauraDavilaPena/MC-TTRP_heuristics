@@ -19,4 +19,4 @@ Laura Davila-Pena, David R. Penas, and Balbina Casas-Méndez (2023). A new two-p
 Laura Davila-Pena, David R. Penas, Balbina Casas-Méndez, Maria Antónia Carravilla, and José Fernando Oliveira (2022). An adaptive large neighborhood search for the multi-compartment truck and trailer routing problem. *Manuscript under preparation*. 
 
 ### TTRP problems distributed with this library:
-I-Ming Chao (2002). A tabu search method for the truck and trailer routing problem. *Computers & Operations Research*, Volume 29(1), 33-51.
+I-Ming Chao (2002). A tabu search method for the truck and trailer routing problem. *Computers & Operations Research*, 29(1), 33-51.
